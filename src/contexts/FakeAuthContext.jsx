@@ -1,4 +1,5 @@
 import { createContext, useContext, useReducer } from "react";
+import imgAyush from "../../public/imgAyush.jpg";
 
 const AuthContext = createContext();
 
@@ -19,10 +20,10 @@ function reducer(state, action) {
 }
 
 const FAKE_USER = {
-  name: "Jack",
-  email: "jack@example.com",
-  password: "qwerty",
-  avatar: "https://i.pravatar.cc/100?u=zz",
+  name: "Ayush",
+  email: "ayush070503@gmail.com",
+  password: "AyushRawat",
+  avatar: { imgAyush },
 };
 
 function AuthProvider({ children }) {

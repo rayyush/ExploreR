@@ -12,17 +12,19 @@ export default function Product() {
           alt="person with dog overlooking mountain with sunset"
         />
         <div>
-          <h2>About WorldWide.</h2>
+          <h2>About ExploreR.</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo est
-            dicta illum vero culpa cum quaerat architecto sapiente eius non
-            soluta, molestiae nihil laborum, placeat debitis, laboriosam at fuga
-            perspiciatis?
-          </p>
-          <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis
-            doloribus libero sunt expedita ratione iusto, magni, id sapiente
-            sequi officiis et.
+            ExploreR is your personal travel companion, meticulously documenting
+            your global adventures. Seamlessly record every city and country
+            you've explored with detailed notes, dates, and memories. Whether
+            you're a seasoned traveler or just starting your journey, our
+            intuitive interface lets you effortlessly log your travels, complete
+            with interactive maps that showcase your travel milestones. Share
+            your experiences with friends and family, or keep your travel diary
+            private. With ExploreR, relive your adventures, gain insights into
+            your travel patterns, and inspire future journeys. Start your
+            virtual passport today and embark on a journey of memories and
+            discovery.
           </p>
         </div>
       </section>
